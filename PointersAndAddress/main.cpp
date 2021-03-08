@@ -23,7 +23,7 @@ int main()
     cout << "\n";
  
     cout << "Value of givenInt: " << *pointerToInt << '\n';
-    cout << "Address of givenInt: " << pointerToInt << '\n';
+    cout << "Address location of givenInt: " << pointerToInt << '\n';
     cout << "\n";
    
     cout << "Value of givenFloat: " << *pointerToFloat << '\n';
